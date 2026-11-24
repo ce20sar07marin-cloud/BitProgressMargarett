@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "BitProgress",
+    "slug": "bitprogress",
+    "scheme": "bitprogress",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/bit2.0.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.bitprogress.app"
+    },
+    "android": {
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/bit2.0.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.bitprogress.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/app-icon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-image",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      "expo-sqlite",
+      "expo-web-browser",
+      "expo-asset"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "19fae17d-c389-47a1-8b91-ddd82b60a742"
+      }
+    }
+  }
+}

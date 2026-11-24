@@ -1,0 +1,45 @@
+{
+  "sessionId": "54d4c46b-647d-4c6f-a4c0-13551d4ee09f",
+  "name": "Esta es una aplicación móvil Necesito",
+  "createdAt": "2026-11-19T14:17:34.926Z",
+  "filename": "54d4c46b-647d-4c6f-a4c0-13551d4ee09f.json",
+  "geminiStarted": true,
+  "messages": [
+    {
+      "id": "f71f1005-eede-487d-b517-28e18a19ff0a",
+      "role": "user",
+      "content": "en español",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-19T14:21:17.938Z",
+      "sender": "ios",
+      "is_cancelled": false
+    },
+    {
+      "id": "e5aa1d73-23b8-439d-ae32-256aedf718c8",
+      "role": "agent",
+      "content": "¡Entendido! A partir de ahora nos comunicaremos en español.\n\nEstoy listo para trabajar en tu proyecto **BitProgress** (Expo / React Native). ¿En qué te gustaría que te ayude hoy?",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "f71f1005-eede-487d-b517-28e18a19ff0a",
+      "created_at": "2026-11-19T14:21:29.666Z",
+      "sender": "macOS",
+      "is_cancelled": false
+    },
+    {
+      "id": "664f5106-850c-4ef6-960c-9590684209f0",
+      "role": "user",
+      "content": "Esta es una aplicación móvil Necesito que la adaptes a web manteniendo los componentes la estética la lógica y base de datos que ahora será en la local storage. Responsiva, puedes?",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-19T14:22:06.901Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
+}

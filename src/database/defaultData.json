@@ -1,0 +1,2374 @@
+{
+  "Leccion": [
+    {
+      "id_leccion": 1,
+      "external_id": "b1",
+      "titulo": "¿Qué es una red?",
+      "descripcion": "Una red informática permite que varios dispositivos puedan comunicarse entre sí para compartir infor",
+      "contenido": "[{\"id\":\"b1-p1\",\"title\":\"Bienvenida\",\"content\":\"Una red informática permite que varios dispositivos puedan comunicarse entre sí para compartir información y recursos.\",\"illustration\":\"Bienvenida.png\"},{\"id\":\"b1-p2\",\"title\":\"¿Qué es una red?\",\"content\":\"Una red informática es el conjunto de dos o más dispositivos conectados para intercambiar información. No importa si están en una casa, una empresa o incluso en diferentes países; mientras puedan comunicarse, forman parte de una red.\",\"illustration\":\"Queesunared.png\",\"conceptBox\":\"Red = dispositivos + conexión + comunicación.\"},{\"id\":\"b1-p3\",\"title\":\"¿Qué dispositivos forman una red?\",\"content\":\"Una red puede estar formada por:\\n\\n• Computadoras\\n• Teléfonos\\n• Tablets\\n• Servidores\\n• Impresoras\\n• Cámaras IP\",\"illustration\":\"Quedispositivosformanpartedeunared.png\"},{\"id\":\"b1-p4\",\"title\":\"¿Cómo se comunican?\",\"content\":\"La información viaja en pequeños paquetes de datos. Cada paquete contiene información sobre quién lo envía, quién lo recibe y que información transporta.\",\"illustration\":\"Comosecomunican.png\"},{\"id\":\"b1-p5\",\"title\":\"Ejemplo cotidiano\",\"content\":\"Cuando envías un mensaje por WhatsApp:\\n\\n1. Escribes el mensaje.\\n2. Se convierte en datos.\\n3. Viaja por Internet.\\n4. Llega al teléfono del destinatario.\\n\\nAunque parezca instantáneo, detrás ocurre todo un proceso de comunicación.\",\"illustration\":\"Ejemplocotiano.png\"},{\"id\":\"b1-p6\",\"title\":\"Resumen\",\"content\":\"✔ Una red conecta dispositivos.\\n\\n✔ Permite compartir información.\\n\\n✔ Los datos viajan mediante paquetes.\\n\\n✔ Internet es la red más grande del mundo.\"},{\"id\":\"b1-p7\",\"title\":\"¿Sabías que...?\",\"content\":\"El primer mensaje enviado por Internet ocurrió en 1969. Solo llegaron las letras: LO. El sistema falló antes de escribir LOGIN.\",\"illustration\":\"Sabiasque.png\"},{\"id\":\"b1-p8\",\"title\":\"Mini reto\",\"content\":\"¿Cuál de los siguientes dispositivos puede formar parte de una red?\\n\\n○ Microondas\\n○ Router\\n○ Ventilador\\n○ Licuadora\",\"illustration\":\"Router.png\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Cuál de los siguientes dispositivos puede formar parte de una red?\",\"options\":[{\"label\":\"Microondas\",\"isCorrect\":false},{\"label\":\"Router\",\"isCorrect\":true},{\"label\":\"Ventilador\",\"isCorrect\":false},{\"label\":\"Licuadora\",\"isCorrect\":false}],\"explanation\":\"El router es un dispositivo de red que permite la conexión entre dispositivos.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 2,
+      "external_id": "b1-2",
+      "titulo": "¿Por qué son importantes las redes?",
+      "descripcion": "Aunque muchas personas no lo notan, las redes forman parte de casi todas las actividades diarias. De",
+      "contenido": "[{\"id\":\"b1-2-p1\",\"title\":\"Introducción\",\"content\":\"Aunque muchas personas no lo notan, las redes forman parte de casi todas las actividades diarias. Desde enviar un mensaje hasta ver un video, siempre hay una red trabajando detrás.\",\"illustration\":\"OndasRadio.png\"},{\"id\":\"b1-2-p2\",\"title\":\"Compartir información\",\"content\":\"Una de las principales funciones de una red es permitir que la información viaje rápidamente entre dispositivos. Gracias a esto podemos:\\n\\n• Enviar documentos.\\n• Compartir fotografías.\\n• Realizar videollamadas.\\n• Intercambiar archivos.\",\"illustration\":\"DosPCsConectadas.png\",\"conceptBox\":\"Compartir información significa que varios dispositivos pueden acceder a los mismos datos.\"},{\"id\":\"b1-2-p3\",\"title\":\"Compartir recursos\",\"content\":\"Las redes también permiten compartir recursos físicos sin necesidad de duplicarlos. Algunos ejemplos son:\\n\\n• Impresoras.\\n• Escanneres.\\n• Servidores.\\n• Espacio de almacenamiento.\\n\\nEsto reduce costos y mejora la organización.\",\"illustration\":\"Impresora.png\"},{\"id\":\"b1-2-p4\",\"title\":\"Comunicación en tiempo real\",\"content\":\"Las redes hacen posible que personas ubicadas en diferentes lugares puedan comunicarse de forma inmediata. Ejemplos:\\n\\n• WhatsApp\\n• Zoom\\n• Microsoft Teams\\n• Google Meet\\n\\nToda esta información viaja en cuestión de segundos.\",\"illustration\":\"OndasRadio.png\"},{\"id\":\"b1-2-p5\",\"title\":\"Acceso a Internet\",\"content\":\"Internet es la red más grande del mundo. Gracias a ella podemos:\\n\\n• Buscar información.\\n• Estudiar.\\n• Comprar en línea.\\n• Trabajar desde casa.\\n• Utilizar redes sociales.\\n\\nSin redes de computadoras, Internet no existiría.\",\"illustration\":\"Topologias.png\"},{\"id\":\"b1-2-p6\",\"title\":\"Redes en nuestra vida diaria\",\"content\":\"Las redes están presentes en:\\n\\n⏢ Hogares\\n⏢ Escuelas\\n⏢ Empresas\\n⏢ Hospitales\\n⏢ Bancos\\n⏢ Industrias\\n\\nActualmente casi todas las organizaciones dependen de una red informática.\"},{\"id\":\"b1-2-p7\",\"title\":\"Resumen\",\"content\":\"✔ Permiten compartir información.\\n\\n✔ Facilitan la comunicación.\\n\\n✔ Reducen costos.\\n\\n✔ Hacen posible Internet.\\n\\n✔ Conectan personas y dispositivos.\"},{\"id\":\"b1-2-p8\",\"title\":\"Mini reto\",\"content\":\"¿Cuál NO es una ventaja de una red?\\n\\n○ Compartir archivos.\\n○ Compartir impresoras.\\n○ Aumentar la comunicación.\\n○ Evitar totalmente el uso de dispositivos.\",\"illustration\":\"SoldadoHenry.png\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Cuál NO es una ventaja de una red?\",\"options\":[{\"label\":\"Compartir archivos\",\"isCorrect\":false},{\"label\":\"Compartir impresoras\",\"isCorrect\":false},{\"label\":\"Aumentar la comunicación\",\"isCorrect\":false},{\"label\":\"Evitar totalmente el uso de dispositivos\",\"isCorrect\":true}],\"explanation\":\"Las redes facilitan el uso de dispositivos, no lo evitan.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 3,
+      "external_id": "b1-3",
+      "titulo": "Tipos de Redes Informáticas",
+      "descripcion": "No todas las redes tienen el mismo tamaño. Algunas conectan dispositivos muy cercanos, mientras que ",
+      "contenido": "[{\"id\":\"b1-3-p1\",\"title\":\"Clasificación de redes por su alcance\",\"content\":\"No todas las redes tienen el mismo tamaño. Algunas conectan dispositivos muy cercanos, mientras que otras conectan millones de equipos alrededor del mundo.\\n\\nLas redes se clasifican según la distancia que cubren:\\n\\n• PAN → Persona (hasta 10 metros)\\n• LAN → Edificio (hasta 1 km)\\n• MAN → Ciudad (5 a 50 km)\\n• WAN → Países y continentes (sin límite)\\n\\nCada tipo de red tiene características diferentes dependiendo de su alcance.\",\"illustration\":\"ClasificaciondeRedesporsuAlcance.png\"},{\"id\":\"b1-3-p2\",\"title\":\"Red LAN (Local Área Network)\",\"content\":\"La LAN es la red más común y la que utilizas con más frecuencia. Conecta dispositivos dentro de un área limitada como una casa, una oficina, una escuela o un hospital.\\n\\nCaracterísticas principales:\\n\\n• Usa cables Ethernet o Wi-Fi.\\n• Alta velocidad de conexión (100 Mbps a 1 Gbps).\\n• El administrador de la red es una sola persona o empresa.\\n• Cobertura: un piso, un edificio o un campus pequeño.\\n\\nEjemplos:\\n\\n• El Wi-Fi de tu casa que conecta tu celular, computadora y smart TV.\\n• La red de una oficina donde todos los computadores están conectados.\\n• El laboratorio de una escuela con 30 computadoras en red.\",\"illustration\":\"EdificioSiete.png\",\"conceptBox\":\"LAN = Red Local. Conecta dispositivos en un edificio o área pequeña.\"},{\"id\":\"b1-3-p3\",\"title\":\"Red WAN (Wide Área Network)\",\"content\":\"La WAN es la red más grande que existe. Conecta redes en diferentes ciudades, países o incluso continentes. El ejemplo más grande de WAN es Internet.\\n\\nCaracterísticas:\\n\\n• Cobertura: miles de kilómetros.\\n• Usa tecnologías como fibra óptica, satélites y enlaces submarinos.\\n• Requiere múltiples proveedores y administradores.\\n• La velocidad puede variar dependiendo de la distancia.\\n\\nEjemplos:\\n\\n• Internet: la WAN más grande del mundo.\\n• La red interna de una empresa multinational que conecta sus oficinas en Mexico, USA y Europa.\\n• Las redes de telefonía móvil (4G/5G) que cubren países enteros.\",\"illustration\":\"Topologias.png\",\"conceptBox\":\"WAN = Red de Área Amplia. Conecta países y continentes.\"},{\"id\":\"b1-3-p4\",\"title\":\"Red MAN (Metropolitan Área Network)\",\"content\":\"La MAN conecta varias redes LAN distribuidas dentro de una ciudad o zona metropolitana. Es más grande que una LAN pero más pequeña que una WAN.\\n\\nCaracterísticas:\\n\\n• Cobertura de 5 a 50 kilómetros.\\n• Puede usar fibra óptica o enlaces inalámbricos.\\n• Generalmente la administra una sola organización o un proveedor de servicios.\\n\\nEjemplos:\\n\\n• Una universidad con varios campus repartidos por la ciudad, donde todos comparten la misma red.\\n• Una empresa con múltiples oficinas en la misma ciudad conectadas entre sí.\\n• La red de una municipalidad que conecta sus oficinas en diferentes colonias.\",\"illustration\":\"EdificioSiete.png\",\"conceptBox\":\"MAN = Red Metropolitana. Conecta una ciudad completa.\"},{\"id\":\"b1-3-p5\",\"title\":\"Red PAN (Personal Área Network)\",\"content\":\"La PAN es la red más personal y pequeña que existe. Conecta dispositivos muy cercanos entre sí, generalmente dentro de un radio de 10 metros.\\n\\nCaracterísticas:\\n\\n• Alcance máximo: 10 metros.\\n• No necesita cables ni configuración complicada.\\n• Usa tecnologías como Bluetooth e Infrarrojo.\\n• Es la red más sencilla de configurar.\\n\\nEjemplos del día a día:\\n\\n• Conectar tus audífonos Bluetooth al celular.\\n• Sincronizar tu smartwatch con el teléfono.\\n• Conectar un teclado inalámbrico a tu computadora.\\n• Enviar un archivo por Bluetooth de un celular a otro.\",\"illustration\":\"OndasRadio.png\",\"conceptBox\":\"PAN = Red Personal. Alcance: hasta 10 metros.\"},{\"id\":\"b1-3-p6\",\"title\":\"Internet, Intranet y Extranet\",\"content\":\"Además de los tipos de red por alcance, existen otras clasificaciones importantes:\\n\\n• Internet: es la red global más grande del mundo. Conecta millones de dispositivos en todos los países y permite acceder a servicios como páginas web, correos y redes sociales.\\n\\n• Intranet: es una red privada que pertenece a una sola organización. Solo las personas autorizadas pueden acceder. Se usa en empresas, hospitales y universidades para compartir información interna.\\n\\n• Extranet: es una extensión de la Intranet que permite acceso limitado a usuarios externos. Por ejemplo, un proveedor que necesita consultar inventarios de una empresa.\\n\\nComparacion:\\n\\n• Internet → Acceso público para todos.\\n• Intranet → Acceso privado solo para la organización.\\n• Extranet → Acceso parcial para usuarios externos autorizados.\",\"illustration\":\"InternetIntranetyExtranet.png\",\"conceptBox\":\"Internet = pública. Intranet = privada. Extranet = acceso limitado.\"},{\"id\":\"b1-3-p7\",\"title\":\"Resumen\",\"content\":\"✔ PAN → Red personal, hasta 10 metros (Bluetooth).\\n\\n✔ LAN → Red local, edificios y oficinas (Wi-Fi, Ethernet).\\n\\n✔ MAN → Red metropolitana, una ciudad completa.\\n\\n✔ WAN → Red de área amplia, países y continentes.\\n\\n✔ Internet → Red global pública.\\n\\n✔ Intranet → Red privada de una organización.\\n\\n✔ Extranet → Acceso limitado a usuarios externos.\"},{\"id\":\"b1-3-p8\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre los tipos de redes.\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Qué tipo de red conecta dispositivos dentro de un edificio?\",\"options\":[{\"label\":\"PAN\",\"isCorrect\":false},{\"label\":\"LAN\",\"isCorrect\":true},{\"label\":\"MAN\",\"isCorrect\":false},{\"label\":\"WAN\",\"isCorrect\":false}],\"explanation\":\"La LAN (Local Área Network) conecta dispositivos dentro de un edificio o área pequeña como una casa, oficina o escuela.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 4,
+      "external_id": "b1-4",
+      "titulo": "Tecnologías de Red que usamos diariamente",
+      "descripcion": "No todas las conexiones utilizan cables. Hoy en día existen tecnologías que permiten transmitir info",
+      "contenido": "[{\"id\":\"b1-4-p1\",\"title\":\"Diferentes formas de conectar\",\"content\":\"No todas las conexiones utilizan cables. Hoy en día existen tecnologías que permiten transmitir información tanto por medios físicos como inalámbricos.\"},{\"id\":\"b1-4-p2\",\"title\":\"Ethernet\",\"content\":\"Ethernet es la tecnología más utilizada en redes cableadas. Se caracteriza por:\\n\\n• Gran velocidad.\\n• Alta estabilidad.\\n• Baja interferencia.\\n\\nEs muy común en empresas y laboratorios.\",\"illustration\":\"CabelEthernet.png\"},{\"id\":\"b1-4-p3\",\"title\":\"Wi-Fi\",\"content\":\"Wi-Fi permite conectar dispositivos sin utilizar cables. Sus ventajas son:\\n\\n• Movilidad.\\n• Facilidad de instalación.\\n• Acceso desde diferentes dispositivos.\\n\\nActualmente es la tecnología inalámbrica más utilizada.\",\"illustration\":\"OndasRadio.png\"},{\"id\":\"b1-4-p4\",\"title\":\"Bluetooth\",\"content\":\"Bluetooth conecta dispositivos cercanos utilizando ondas de radio. Algunos ejemplos:\\n\\n• Audífonos.\\n• Parlantes.\\n• Mouse.\\n• Teclados.\\n\\nSu alcance suele ser menor que el de Wi-Fi.\",\"illustration\":\"OndasRadio.png\"},{\"id\":\"b1-4-p5\",\"title\":\"Fibra óptica\",\"content\":\"La fibra óptica transmite información mediante pulsos de luz. Sus ventajas son:\\n\\n• Muy alta velocidad.\\n• Gran capacidad.\\n• Baja pérdida de señal.\\n\\nEs ampliamente utilizada por proveedores de Internet.\",\"illustration\":\"CabelEthernet.png\"},{\"id\":\"b1-4-p6\",\"title\":\"¿Cuál tecnología elegir?\",\"content\":\"Ethernet → Oficinas\\nWi-Fi → Hogares\\nBluetooth → Dispositivos personales\\nFibra óptica → Internet de alta velocidad\",\"illustration\":\"CabelEthernet.png\"},{\"id\":\"b1-4-p7\",\"title\":\"Conceptos importantes\",\"content\":\"📡 Wi-Fi\\n🔌 Ethernet\\n📶 Bluetooth\\n💡 Fibra óptica\\n\\nCada tecnología tiene ventajas y aplicaciones específicas según las necesidades de la red.\"},{\"id\":\"b1-4-p8\",\"title\":\"Mini reto\",\"content\":\"¿Cuál tecnología utiliza pulsos de luz para transmitir datos?\\n\\n○ Bluetooth\\n○ Wi-Fi\\n○ Ethernet\\n○ Fibra óptica\",\"illustration\":\"CabelEthernet.png\"},{\"id\":\"b1-4-p9\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre tecnologías de red.\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Cuál tecnología utiliza pulsos de luz para transmitir datos?\",\"options\":[{\"label\":\"Bluetooth\",\"isCorrect\":false},{\"label\":\"Wi-Fi\",\"isCorrect\":false},{\"label\":\"Ethernet\",\"isCorrect\":false},{\"label\":\"Fibra óptica\",\"isCorrect\":true}],\"explanation\":\"La fibra óptica transmite información mediante pulsos de luz a través de cables de vidrio.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 5,
+      "external_id": "b1-5",
+      "titulo": "Internet: La Red de Redes",
+      "descripcion": "Internet es una enorme red que conecta millones de dispositivos alrededor del mundo. Gracias a ella,",
+      "contenido": "[{\"id\":\"b1-5-p1\",\"title\":\"Introducción\",\"content\":\"Internet es una enorme red que conecta millones de dispositivos alrededor del mundo. Gracias a ella, las personas pueden comunicarse, compartir información y acceder a servicios desde cualquier lugar.\",\"illustration\":\"Topologias.png\"},{\"id\":\"b1-5-p2\",\"title\":\"¿Cómo funciona Internet?\",\"content\":\"Cuando utilizas una aplicación o visitas una página web, la información viaja desde tu dispositivo hasta un servidor y luego regresa con una respuesta.\\n\\nEste proceso ocurre en apenas unos segundos.\",\"illustration\":\"EdificioSiete.png\"},{\"id\":\"b1-5-p3\",\"title\":\"¿Qué es un servidor?\",\"content\":\"Un servidor es una computadora diseñada para ofrecer información o servicios a otros dispositivos llamados clientes.\\n\\nEjemplos de servidores:\\n\\n• Servidores web.\\n• Servidores de correo.\\n• Servidores de videojuegos.\\n• Servidores en la nube.\",\"illustration\":\"EdificioSiete.png\",\"conceptBox\":\"Cliente: solicita información.\\nServidor: responde a la solicitud.\"},{\"id\":\"b1-5-p4\",\"title\":\"Servicios que ofrece Internet\",\"content\":\"Internet permite utilizar diferentes servicios, como:\\n\\n• Navegar por páginas web.\\n• Enviar correos electrónicos.\\n• Realizar videollamadas.\\n• Almacenar archivos en la nube.\\n• Ver películas y escuchar música.\",\"illustration\":\"AppsEnPC.png\"},{\"id\":\"b1-5-p5\",\"title\":\"Navegando por la Web\",\"content\":\"La World Wide Web (WWW) es uno de los servicios más populares de Internet.\\n\\nCuando escribes una dirección web, tu navegador solicita la información a un servidor para mostrar la página.\",\"illustration\":\"HTTP.png\"},{\"id\":\"b1-5-p6\",\"title\":\"Curiosidad\",\"content\":\"Internet y la Web no son lo mismo.\\n\\nInternet es la infraestructura que conecta millones de dispositivos.\\n\\nLa Web (WWW) es uno de los muchos servicios que funcionan sobre Internet.\"},{\"id\":\"b1-5-p7\",\"title\":\"Resumen\",\"content\":\"✔ Internet conecta redes de todo el mundo.\\n\\n✔ Los servidores ofrecen servicios.\\n\\n✔ Los clientes solicitan información.\\n\\n✔ La Web es uno de los servicios de Internet.\"},{\"id\":\"b1-5-p8\",\"title\":\"Mini reto\",\"content\":\"¿Quién proporciona la información al usuario?\\n\\n○ Cliente\\n○ Servidor\\n○ Switch\\n○ Router\",\"illustration\":\"EdificioSiete.png\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Quién proporciona la información al usuario?\",\"options\":[{\"label\":\"Cliente\",\"isCorrect\":false},{\"label\":\"Servidor\",\"isCorrect\":true},{\"label\":\"Switch\",\"isCorrect\":false},{\"label\":\"Router\",\"isCorrect\":false}],\"explanation\":\"El servidor responde a las solicitudes del cliente proporcionando la información.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 6,
+      "external_id": "b1-6",
+      "titulo": "Aplicaciones Cotidianas de las Redes",
+      "descripcion": "Desde que despiertas hasta que termina el día, utilizas redes sin darte cuenta.\n\nCada mensaje, busqu",
+      "contenido": "[{\"id\":\"b1-6-p1\",\"title\":\"Las redes están en todas partes\",\"content\":\"Desde que despiertas hasta que termina el día, utilizas redes sin darte cuenta.\\n\\nCada mensaje, búsqueda o compra depende de una infraestructura de comunicación.\",\"illustration\":\"OndasRadio.png\"},{\"id\":\"b1-6-p2\",\"title\":\"En el hogar\",\"content\":\"Las redes permiten conectar:\\n\\n• Computadoras.\\n• Celulares.\\n• Smart TV.\\n• Consolas.\\n• Cámaras de seguridad.\\n• Asistentes virtuales.\\n\\nTodos pueden compartir la misma conexión a Internet.\",\"illustration\":\"DosPCsConectadas.png\"},{\"id\":\"b1-6-p3\",\"title\":\"En la educacion\",\"content\":\"Las instituciones educativas utilizan redes para:\\n\\n• Plataformas virtuales.\\n• Bibliotecas digitales.\\n• Videoconferencias.\\n• Laboratorios.\\n• Compartir documentos.\\n\\nLas redes facilitan el aprendizaje a distancia.\",\"illustration\":\"AppsEnPC.png\"},{\"id\":\"b1-6-p4\",\"title\":\"En las empresas\",\"content\":\"Las organizaciones utilizan redes para:\\n\\n• Compartir archivos.\\n• Controlar inventarios.\\n• Gestionar clientes.\\n• Comunicarse entre sedes.\\n• Realizar videoconferencias.\\n\\nSin redes, muchas empresas no funcionarian.\",\"illustration\":\"EdificioSiete.png\"},{\"id\":\"b1-6-p5\",\"title\":\"En hospitales\",\"content\":\"Las redes ayudan a:\\n\\n• Consultar historias clinicas.\\n• Compartir resultados medicos.\\n• Monitorear pacientes.\\n• Coordinar emergencias.\\n\\nLa información puede llegar rápidamente a los especialistas.\",\"illustration\":\"RedPrivada.png\"},{\"id\":\"b1-6-p6\",\"title\":\"En bancos\",\"content\":\"Cuando realizas una transferencia o pagas con tarjeta, la información viaja por una red segura.\\n\\nEsto permite realizar operaciones financieras en pocos segundos.\",\"illustration\":\"RedPrivada.png\"},{\"id\":\"b1-6-p7\",\"title\":\"Resumen\",\"content\":\"Las redes están presentes en:\\n\\n⏢ Hogares\\n⏢ Escuelas\\n⏢ Empresas\\n⏢ Hospitales\\n⏢ Bancos\\n⏢ Gobiernos\"},{\"id\":\"b1-6-p8\",\"title\":\"Mini reto\",\"content\":\"¿Cuál de estos lugares depende de una red informática?\\n\\n○ Hospital\\n○ Banco\\n○ Escuela\\n○ Todos los anteriores\",\"illustration\":\"SoldadoHenry.png\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Cuál de estos lugares depende de una red informática?\",\"options\":[{\"label\":\"Hospital\",\"isCorrect\":false},{\"label\":\"Banco\",\"isCorrect\":false},{\"label\":\"Escuela\",\"isCorrect\":false},{\"label\":\"Todos los anteriores\",\"isCorrect\":true}],\"explanation\":\"Hospitales, bancos y escuelas dependen de redes informáticas.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 7,
+      "external_id": "b1-7",
+      "titulo": "Conceptos Fundamentales de Redes",
+      "descripcion": "Ahora que conoces que es una red, aprenderas algunos términos que aparecerán constantemente durante ",
+      "contenido": "[{\"id\":\"b1-7-p1\",\"title\":\"Antes de continuar...\",\"content\":\"Ahora que conoces que es una red, aprenderas algunos términos que aparecerán constantemente durante el curso.\",\"illustration\":\"SoldadoHenry.png\"},{\"id\":\"b1-7-p2\",\"title\":\"Nodo\",\"content\":\"Un nodo es cualquier dispositivo conectado a una red.\\n\\nPuede ser:\\n\\n• Una computadora.\\n• Un teléfono.\\n• Un servidor.\\n• Una impresora.\\n• Un router.\",\"illustration\":\"Router.png\",\"conceptBox\":\"Todo dispositivo conectado es un nodo.\"},{\"id\":\"b1-7-p3\",\"title\":\"Enlace\",\"content\":\"Un enlace es el medio que permite comunicar dos dispositivos.\\n\\nPuede ser:\\n\\n• Cableado.\\n• Inalámbrico.\\n\\nLos enlaces transportan los datos entre los nodos.\",\"illustration\":\"CabelEthernet.png\"},{\"id\":\"b1-7-p4\",\"title\":\"Paquete de datos\",\"content\":\"La información no viaja completa.\\n\\nSe divide en pequeñas unidades llamadas paquetes.\\n\\nCada paquete contiene:\\n\\n• Origen.\\n• Destino.\\n• Datos.\\n• Información de control.\",\"illustration\":\"Paquete.png\"},{\"id\":\"b1-7-p5\",\"title\":\"Ancho de banda\",\"content\":\"El ancho de banda representa la cantidad de información que puede transmitirse por una red en un determinado tiempo.\\n\\nMayor ancho de banda significa mayor capacidad de transmisión.\"},{\"id\":\"b1-7-p6\",\"title\":\"Latencia\",\"content\":\"La latencia es el tiempo que tarda un dato en viajar desde el origen hasta el destino.\\n\\nUna menor latencia significa una comunicación más rápida.\"},{\"id\":\"b1-7-p7\",\"title\":\"Glosario rápido\",\"content\":\"Nodo\\nEnlace\\nPaquete\\nAncho de banda\\nLatencia\\nCliente\\nServidor\\n\\nEstos conceptos aparecerán durante todo el curso.\"},{\"id\":\"b1-7-p8\",\"title\":\"Mini reto\",\"content\":\"¿Qué término describe el tiempo que tarda un dato en viajar?\\n\\n○ Nodo\\n○ Latencia\\n○ Paquete\\n○ Ethernet\",\"illustration\":\"Paquete.png\"},{\"id\":\"b1-7-p9\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre conceptos fundamentales.\",\"quiz\":{\"type\":\"ordering\",\"question\":\"Ordena estos conceptos del más básico al más avanzado:\",\"correctOrder\":[\"Nodo\",\"Enlace\",\"Paquete\",\"Ancho de banda\",\"Latencia\"],\"explanation\":\"Un nodo es un dispositivo, un enlace lo conecta, los datos viajan en paquetes, el ancho de banda mide capacidad y la latencia mide tiempo.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 8,
+      "external_id": "b1-8",
+      "titulo": "Recorrido de un Dato en una Red",
+      "descripcion": "Cuando envías un mensaje o abres una página web, la información no aparece por arte de magia. Los da",
+      "contenido": "[{\"id\":\"b1-8-p1\",\"title\":\"Introducción\",\"content\":\"Cuando envías un mensaje o abres una página web, la información no aparece por arte de magia. Los datos recorren un camino pasando por varios dispositivos antes de llegar a su destino.\",\"illustration\":\"DosPCsConectadas.png\"},{\"id\":\"b1-8-p2\",\"title\":\"Paso 1: El dispositivo crea los datos\",\"content\":\"Todo comienza cuando realizas una acción, como enviar un mensaje, abrir una página web o reproducir un video.\\n\\nTu dispositivo convierte esa acción en información digital.\",\"illustration\":\"Paquete.png\"},{\"id\":\"b1-8-p3\",\"title\":\"Paso 2: Los datos llegan al router\",\"content\":\"El router recibe la información y decide hacia dónde debe enviarla.\\n\\nEs el encargado de conectar tu red local con Internet.\",\"illustration\":\"Router.png\",\"conceptBox\":\"El router actúa como un guía que indica el mejor camino para los datos.\"},{\"id\":\"b1-8-p4\",\"title\":\"Paso 3: Viaje por Internet\",\"content\":\"Los datos recorren diferentes redes hasta llegar al servidor o al dispositivo destino.\\n\\nEste recorrido puede atravesar ciudades, países o incluso continentes.\",\"illustration\":\"Topologias.png\"},{\"id\":\"b1-8-p5\",\"title\":\"Paso 4: El servidor responde\",\"content\":\"Si la información solicitada está en un servidor (por ejemplo, una página web), este procesa la petición y envía una respuesta.\",\"illustration\":\"EdificioSiete.png\"},{\"id\":\"b1-8-p6\",\"title\":\"Paso 5: Los datos regresan\",\"content\":\"La respuesta vuelve por la red hasta llegar a tu dispositivo.\\n\\nTodo este proceso ocurre en pocos segundos.\",\"illustration\":\"EdificioSiete.png\"},{\"id\":\"b1-8-p7\",\"title\":\"Resumen\",\"content\":\"Todo mensaje sigue un recorrido similar:\\n\\n✔ Dispositivo\\n➡ Router\\n➡ Internet\\n➡ Servidor\\n➡ Internet\\n➡ Router\\n➡ Dispositivo\",\"illustration\":\"Topologias.png\"},{\"id\":\"b1-8-p8\",\"title\":\"Mini reto\",\"content\":\"¿Quién conecta normalmente tu red doméstica con Internet?\\n\\n○ Switch\\n○ Router\\n○ Impresora\\n○ Servidor\",\"illustration\":\"Router.png\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Quién conecta normalmente tu red doméstica con Internet?\",\"options\":[{\"label\":\"Switch\",\"isCorrect\":false},{\"label\":\"Router\",\"isCorrect\":true},{\"label\":\"Impresora\",\"isCorrect\":false},{\"label\":\"Servidor\",\"isCorrect\":false}],\"explanation\":\"El router conecta tu red local con Internet.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 9,
+      "external_id": "b1-9",
+      "titulo": "Repaso General del Módulo",
+      "descripcion": "Has completado el primer módulo de BitProgress.\n\nAhora es momento de repasar todo lo aprendido antes",
+      "contenido": "[{\"id\":\"b1-9-p1\",\"title\":\"Felicidades!\",\"content\":\"Has completado el primer módulo de BitProgress.\\n\\nAhora es momento de repasar todo lo aprendido antes de continuar.\",\"illustration\":\"SoldadoHenry.png\"},{\"id\":\"b1-9-p2\",\"title\":\"Lo que aprendiste\",\"content\":\"Durante este módulo conociste:\\n\\n• Que es una red.\\n• Para que sirven.\\n• Tipos de redes.\\n• Tecnologías de comunicación.\\n• Internet.\\n• Aplicaciones cotidianas.\\n• Conceptos básicos.\\n• Como viajan los datos.\"},{\"id\":\"b1-9-p3\",\"title\":\"Conceptos clave\",\"content\":\"✔ Red\\n\\n✔ Nodo\\n\\n✔ Router\\n\\n✔ Servidor\\n\\n✔ Cliente\\n\\n✔ Internet\\n\\n✔ LAN\\n\\n✔ WAN\\n\\n✔ Ethernet\\n\\n✔ Wi-Fi\\n\\n✔ Paquete\"},{\"id\":\"b1-9-p4\",\"title\":\"Relaciona los conceptos\",\"content\":\"Actividad interactiva:\\n\\n• Router → Conecta redes\\n• Servidor → Proporciona servicios\\n• Cliente → Solicita información\\n• Nodo → Dispositivo conectado\\n\\nActividad: Arrastra cada definición al concepto correcto.\",\"illustration\":\"SoldadoHenry.png\"},{\"id\":\"b1-9-p5\",\"title\":\"Completa la oracion\",\"content\":\"Una red informática permite que varios __________ puedan compartir __________ e intercambiar __________.\\n\\nRespuesta: Dispositivos – recursos – información.\"},{\"id\":\"b1-9-p6\",\"title\":\"Verdadero o falso\",\"content\":\"Internet es una red local. ❌ Falso.\\n\\nUna LAN conecta países. ❌ Falso.\\n\\nEl Wi-Fi permite conexiones inalámbricas. ✅ Verdadero.\\n\\nLos servidores ofrecen servicios a los clientes. ✅ Verdadero.\"},{\"id\":\"b1-9-p7\",\"title\":\"Desafio Final\",\"content\":\"¿Cuál seria el orden correcto?\\n\\n• Computadora\\n• Internet\\n• Servidor\\n• Router\\n\\nRespuesta: Computadora ➡ Router ➡ Internet ➡ Servidor\",\"illustration\":\"SoldadoHenry.png\"},{\"id\":\"b1-9-p8\",\"title\":\"Prueba práctica\",\"content\":\"Pon a prueba todo lo que aprendiste en el Módulo 1.\",\"quiz\":{\"type\":\"ordering\",\"question\":\"Ordena el recorrido correcto de un dato en una red:\",\"correctOrder\":[\"Dispositivo\",\"Router\",\"Internet\",\"Servidor\"],\"explanation\":\"Los datos viajan desde tu dispositivo, pasan por el router, recorren Internet hasta el servidor, y regresan por el mismo camino.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 10,
+      "external_id": "b2",
+      "titulo": "Tipos de redes",
+      "descripcion": "Las redes se clasifican según la distancia que cubren. Una PAN conecta dispositivos muy cercanos. Un",
+      "contenido": "[{\"id\":\"b2-p1\",\"title\":\"Clasificación por alcance\",\"content\":\"Las redes se clasifican según la distancia que cubren. Una PAN conecta dispositivos muy cercanos. Una LAN cubre un edificio. Una WAN abarca ciudades o países.\",\"illustration\":\"Topologias.png\"},{\"id\":\"b2-p2\",\"title\":\"LAN y WAN\",\"content\":\"La LAN es la red más común, se encuentra en hogares, oficinas y escuelas. La WAN conecta múltiples LAN entre sí, siendo Internet el ejemplo más grande de WAN del mundo.\",\"illustration\":\"LANyWAN.png\"},{\"id\":\"b2-p3\",\"title\":\"MAN y PAN\",\"content\":\"La MAN (Metropolitan Área Network) cubre una ciudad entera. La PAN es la más personal, conectando tus dispositivos como celular, audífonos y reloj inteligente mediante Bluetooth.\",\"illustration\":\"MANyPAN.png\"},{\"id\":\"b2-p4\",\"title\":\"Internet, Intranet y Extranet\",\"content\":\"Internet es la red global. Una Intranet es una red privada de una organización. Una Extranet permite acceso limitado a usuarios externos de una Intranet.\",\"illustration\":\"RedPrivada.png\"},{\"id\":\"b2-p5\",\"title\":\"Topologías de red\",\"content\":\"Las topologías describen como están organizados los dispositivos en una red. La topología estrella es la más común: todos se conectan a un punto central (switch). La topología bus usa un cable principal compartido. La topología anillo forma un círculo cerrado.\",\"illustration\":\"StarTopologia.png\"},{\"id\":\"b2-p6\",\"title\":\"Ejemplos cotidianos\",\"content\":\"En tu hogar, tu WiFi es una PAN/LAN que conecta celular, laptop y TV. Tu escuela tiene una LAN que conecta computers y impresoras. Internet es la WAN que conecta todo el mundo. Bluetooth es un ejemplo perfecto de PAN.\",\"illustration\":\"EdificioSiete.png\"},{\"id\":\"b2-p7\",\"title\":\"Resumen\",\"content\":\"✔ Las redes se clasifican por alcance: PAN, LAN, MAN y WAN.\\n\\n✔ Internet es la WAN más grande.\\n\\n✔ Intranet y Extranet son variantes privadas.\\n\\n✔ Las topologías describen la forma de la red.\\n\\n✔ Bluetooth es un ejemplo de PAN.\"},{\"id\":\"b2-p8\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre tipos de redes.\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Qué tipo de red cubre un edificio completo?\",\"options\":[{\"label\":\"PAN\",\"isCorrect\":false},{\"label\":\"LAN\",\"isCorrect\":true},{\"label\":\"MAN\",\"isCorrect\":false},{\"label\":\"WAN\",\"isCorrect\":false}],\"explanation\":\"Una LAN (Local Área Network) conecta dispositivos dentro de un edificio o área local.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 11,
+      "external_id": "b3",
+      "titulo": "Dispositivos de red",
+      "descripcion": "Para que una red exista necesitas dispositivos que permitan la comunicación. Los más comunes son el ",
+      "contenido": "[{\"id\":\"b3-p1\",\"title\":\"Dispositivos de conexión\",\"content\":\"Para que una red exista necesitas dispositivos que permitan la comunicación. Los más comunes son el módem, el router y el switch, cada uno con una función diferente dentro de la red.\",\"illustration\":\"DispositivosdeConexion.png\"},{\"id\":\"b3-p2\",\"title\":\"Router y Switch\",\"content\":\"El router conecta redes diferentes y dirige el tráfico de datos. El switch conecta dispositivos dentro de la misma red local, enviando datos solo al dispositivo correcto.\",\"illustration\":\"RouterySwiches.png\"},{\"id\":\"b3-p3\",\"title\":\"Otros dispositivos\",\"content\":\"Un punto de acceso WiFi permite la conexión inalámbrica. Un firewall protege la red de accesos no autorizados. Los servidores almacenan y distribuyen datos a los demás dispositivos.\",\"illustration\":\"OtrosDispositivos.png\"},{\"id\":\"b3-p4\",\"title\":\"Resumen\",\"content\":\"✔ Los dispositivos de red incluyen módems, routers, switches, puntos de acceso WiFi, firewalls y servidores.\\n\\n✔ Cada uno cumple una función específica para mantener la red funcionando.\"},{\"id\":\"b3-p5\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre dispositivos de red.\",\"quiz\":{\"type\":\"true-false\",\"question\":\"El switch conecta dispositivos dentro de la misma red local.\",\"options\":[{\"label\":\"Verdadero\",\"isCorrect\":true},{\"label\":\"Falso\",\"isCorrect\":false}],\"explanation\":\"El switch envía datos solo al dispositivo correcto dentro de la misma red local.\"}}]",
+      "nivel": "basic",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 12,
+      "external_id": "i1",
+      "titulo": "Direccionamiento IP",
+      "descripcion": "Una dirección IP es un identificador numérico asignado a cada dispositivo dentro de una red. Su func",
+      "contenido": "[{\"id\":\"i1-p1\",\"title\":\"¿Qué es una IP?\",\"content\":\"Una dirección IP es un identificador numérico asignado a cada dispositivo dentro de una red. Su función es permitir que los dispositivos se encuentren y se comuniquen entre sí.\",\"illustration\":\"QueesunaIP.png\"},{\"id\":\"i1-p2\",\"title\":\"IPv4\",\"content\":\"IPv4 utiliza direcciones de 32 bits, lo que permite aproximadamente 4.3 mil millones de direcciones únicas. Se escribe en cuatro grupos de números del 0 al 255 separados por puntos, como 192.168.1.1.\",\"illustration\":\"IPv4.png\"},{\"id\":\"i1-p3\",\"title\":\"IPv6\",\"content\":\"IPv6 utiliza direcciones de 128 bits para resolver el agotamiento de IPv4. Se escribe en ocho grupos de números hexadecimales separados por dos puntos.\",\"illustration\":\"IPv6.png\"},{\"id\":\"i1-p4\",\"title\":\"Dirección IP pública vs privada\",\"content\":\"Una IP pública es visible en Internet y la asigna tu proveedor. Una IP privada solo funciona dentro de tu red local, como 192.168.x.x, y no es visible desde fuera.\",\"illustration\":\"DireccionIPpublicavsIPprivada.png\"},{\"id\":\"i1-p5\",\"title\":\"MAC Address\",\"content\":\"La dirección MAC es un identificador físico único grabado en la tarjeta de red de cada dispositivo. A diferencia de la IP, la MAC no cambia independientemente de la red a la que te conectes.\",\"illustration\":\"MACAddress.png\"},{\"id\":\"i1-p6\",\"title\":\"Resumen\",\"content\":\"✔ Las direcciones IP identifican dispositivos en una red.\\n\\n✔ IPv4 usa 32 bits, IPv6 usa 128 bits.\\n\\n✔ Las IPs públicas son para Internet, las privadas para redes locales.\\n\\n✔ La MAC Address es el ID físico del dispositivo.\"},{\"id\":\"i1-p7\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre direccionamiento IP.\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿Cuántos bits utiliza una dirección IPv4?\",\"options\":[{\"label\":\"16 bits\",\"isCorrect\":false},{\"label\":\"32 bits\",\"isCorrect\":true},{\"label\":\"64 bits\",\"isCorrect\":false},{\"label\":\"128 bits\",\"isCorrect\":false}],\"explanation\":\"IPv4 utiliza direcciones de 32 bits, lo que permite aproximadamente 4.3 mil millones de direcciones.\"}}]",
+      "nivel": "intermediate",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 13,
+      "external_id": "i2",
+      "titulo": "Subredes y máscara",
+      "descripcion": "Una subred es una división de una red más grande. Permite organizar los dispositivos en grupos, mejo",
+      "contenido": "[{\"id\":\"i2-p1\",\"title\":\"¿Qué es una subred?\",\"content\":\"Una subred es una división de una red más grande. Permite organizar los dispositivos en grupos, mejorar el rendimiento y facilitar la administración del tráfico de datos.\",\"illustration\":\"QueesUnaSubred.png\"},{\"id\":\"i2-p2\",\"title\":\"La máscara de subred\",\"content\":\"La máscara de subred determina qué parte de una dirección IP corresponde a la red y cuál a los dispositivos. Se escribe como 255.255.255.0, indicando que los primeros tres octetos son la red.\",\"illustration\":\"LaMasccaraDeSubred.png\"},{\"id\":\"i2-p3\",\"title\":\"CIDR\",\"content\":\"CIDR (Classless Inter-Domain Routing) es una forma más flexible de representar subredes usando una barra y un número, como /24. indica cuántos bits corresponden a la red.\",\"illustration\":\"CIDR.png\"},{\"id\":\"i2-p4\",\"title\":\"Calcular subredes\",\"content\":\"Para calcular subredes necesitas saber cuántos dispositivos conectados tendrás. Cada subred necesita una dirección de red, una de broadcast y al menos una IP para el router.\",\"illustration\":\"CalcularSubredes.png\"},{\"id\":\"i2-p5\",\"title\":\"Resumen\",\"content\":\"✔ Las subredes dividen una red grande en partes más pequeñas.\\n\\n✔ La máscara determina la red vs los dispositivos.\\n\\n✔ CIDR es la notación moderna para representar subredes.\"},{\"id\":\"i2-p6\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre subredes y máscaras.\",\"quiz\":{\"type\":\"fill-blank\",\"question\":\"La máscara de subred 255.255.255.0 indica que los primeros ___ octetos son la red.\",\"blankAnswer\":[\"tres\",\"3\"],\"explanation\":\"255.255.255.0 indica que los primeros tres octetos identifican la red y el último identifica los dispositivos.\"}}]",
+      "nivel": "intermediate",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 14,
+      "external_id": "i3",
+      "titulo": "Topologías de red",
+      "descripcion": "La topología de red es la forma en que los dispositivos están organizados y conectados. Puede ser fi",
+      "contenido": "[{\"id\":\"i3-p1\",\"title\":\"¿Qué es una topología?\",\"content\":\"La topología de red es la forma en que los dispositivos están organizados y conectados. Puede ser física (cableado real) o lógica (cómo fluyen los datos).\",\"illustration\":\"QueesUnaTopologia.png\"},{\"id\":\"i3-p2\",\"title\":\"Topología estrella\",\"content\":\"En la topología estrella todos los dispositivos se conectan a un punto central, normalmente un switch. Es la más común en hogares y oficinas por su facilidad de administración.\",\"illustration\":\"TopologiadeEstrella.png\"},{\"id\":\"i3-p3\",\"title\":\"Topología bus y anillo\",\"content\":\"En la topología bus todos comparten un cable principal. En la topología anillo los dispositivos forman un círculo cerrado. Ambas son menos utilizadas hoy en día.\",\"illustration\":\"TopologiadeBusyAnillo.png\"},{\"id\":\"i3-p4\",\"title\":\"Topología malla\",\"content\":\"En la topología malla cada dispositivo se conecta con varios otros. Ofrece alta disponibilidad pero es costosa. Se usa en redes críticas como las de telecomunicaciones.\",\"illustration\":\"Topologiademalla.png\"},{\"id\":\"i3-p5\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre topologías de red.\",\"quiz\":{\"type\":\"multiple-choice\",\"question\":\"¿En qué topología todos los dispositivos se conectan a un punto central?\",\"options\":[{\"label\":\"Bus\",\"isCorrect\":false},{\"label\":\"Anillo\",\"isCorrect\":false},{\"label\":\"Estrella\",\"isCorrect\":true},{\"label\":\"Malla\",\"isCorrect\":false}],\"explanation\":\"En la topología estrella todos los dispositivos se conectan a un punto central, normalmente un switch.\"}}]",
+      "nivel": "intermediate",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 15,
+      "external_id": "a1",
+      "titulo": "Protocolos TCP/IP",
+      "descripcion": "TCP/IP es el conjunto de protocolos que hace funcionar a Internet. TCP se encarga de dividir y reens",
+      "contenido": "[{\"id\":\"a1-p1\",\"title\":\"¿Qué es TCP/IP?\",\"content\":\"TCP/IP es el conjunto de protocolos que hace funcionar a Internet. TCP se encarga de dividir y reensamblar los datos. IP se encarga de dirigir los paquetes al destino correcto.\",\"illustration\":\"QueesTCP_IP.png\"},{\"id\":\"a1-p2\",\"title\":\"Capas del modelo TCP/IP\",\"content\":\"El modelo tiene 4 capas: Acceso a red, Internet (direccionamiento IP), Transporte (TCP/UDP) y Aplicación (HTTP, DNS, FTP). Cada capa tiene un rol específico.\",\"illustration\":\"ModeloTCP.png\"},{\"id\":\"a1-p3\",\"title\":\"TCP vs UDP\",\"content\":\"TCP es confiable: verifica que todos los paquetes lleguen en orden. UDP es rápido pero no garantiza la entrega. TCP se usa en web y correo. UDP se usa en videojuegos y streaming.\",\"illustration\":\"TCPvsUDP.png\"},{\"id\":\"a1-p4\",\"title\":\"DNS y HTTP\",\"content\":\"DNS traduce nombres de dominio a direcciones IP. HTTP es el protocolo para transferir páginas web. HTTPS añade cifrado para mayor seguridad.\",\"illustration\":\"DNSyHTTP.png\"},{\"id\":\"a1-p5\",\"title\":\"Resumen\",\"content\":\"✔ TCP/IP es la base de Internet.\\n\\n✔ Tiene 4 capas y usa TCP para datos confiables y UDP para datos rápidos.\\n\\n✔ DNS resuelve nombres y HTTP transfiere páginas web.\"},{\"id\":\"a1-p6\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre protocolos TCP/IP.\",\"quiz\":{\"type\":\"true-false\",\"question\":\"TCP es más rápido que UDP pero no garantiza la entrega.\",\"options\":[{\"label\":\"Verdadero\",\"isCorrect\":false},{\"label\":\"Falso\",\"isCorrect\":true}],\"explanation\":\"UDP es más rápido que TCP, pero no garantiza la entrega. TCP es confiable pero más lento.\"}}]",
+      "nivel": "advanced",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 16,
+      "external_id": "a2",
+      "titulo": "Puertos y servicios",
+      "descripcion": "Un puerto es un número del 0 al 65535 que identifica un servicio o aplicación específica dentro de u",
+      "contenido": "[{\"id\":\"a2-p1\",\"title\":\"¿Qué es un puerto?\",\"content\":\"Un puerto es un número del 0 al 65535 que identifica un servicio o aplicación específica dentro de un dispositivo. Permite que múltiples servicios funcionen en el mismo equipo simultáneamente.\",\"illustration\":\"QueesunPuerto.png\"},{\"id\":\"a2-p2\",\"title\":\"Puertos comunes\",\"content\":\"Puerto 80: HTTP (web sin cifrar).\\nPuerto 443: HTTPS (web cifrada).\\nPuerto 22: SSH (acceso remoto).\\nPuerto 53: DNS (resolución de nombres).\\nPuerto 25: SMTP (correo saliente).\",\"illustration\":\"PuertosComunes.png\"},{\"id\":\"a2-p3\",\"title\":\"Servicios de red\",\"content\":\"Un servicio es una función que ofrece un servidor a los clientes. Los más comunes son web (HTTP), correo (SMTP/IMAP), DNS, FTP y DHCP (asignación automática de IPs).\",\"illustration\":\"ServiciosdeRed.png\"},{\"id\":\"a2-p4\",\"title\":\"Firewall y puertos\",\"content\":\"Un firewall controla qué puertos están abiertos o cerrados. Cerrar puertos innecesarios reduce la superficie de ataque. Solo se deben abrir los puertos que realmente se necesitan.\",\"illustration\":\"FirewallyPuertos.png\"},{\"id\":\"a2-p5\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre puertos y servicios.\",\"quiz\":{\"type\":\"fill-blank\",\"question\":\"El puerto ___ se utiliza para conexiones HTTPS (web cifrada).\",\"blankAnswer\":\"443\",\"explanation\":\"El puerto 443 se utiliza para HTTPS, que es la versión cifrada del protocolo HTTP.\"}}]",
+      "nivel": "advanced",
+      "xp_recompensa": 20,
+      "estado": 1
+    },
+    {
+      "id_leccion": 17,
+      "external_id": "a3",
+      "titulo": "Seguridad en red",
+      "descripcion": "Las redes enfrentan amenazas como malware, phishing, ataques DDoS y accesos no autorizados. Conocer ",
+      "contenido": "[{\"id\":\"a3-p1\",\"title\":\"Principales amenazas\",\"content\":\"Las redes enfrentan amenazas como malware, phishing, ataques DDoS y accesos no autorizados. Conocer estas amenazas es el primer paso para protegerse.\",\"illustration\":\"PrincipalesAmenazas.png\"},{\"id\":\"a3-p2\",\"title\":\"Cifrado de datos\",\"content\":\"El cifrado convierte los datos en código ilegible para quien no tenga la clave. TLS/SSL protege el tráfico web. WPA2/WPA3 cifra las conexiones WiFi.\",\"illustration\":\"CifradodeDatos.png\"},{\"id\":\"a3-p3\",\"title\":\"Autenticación y contraseñas\",\"content\":\"La autenticación verifica tu identidad. Usa contraseñas fuertes (12+ caracteres, mezcla de tipos). La autenticación de dos factores (2FA) añade una capa extra de seguridad.\",\"illustration\":\"AutenticacionyContraceñas.png\"},{\"id\":\"a3-p4\",\"title\":\"Buenas prácticas\",\"content\":\"Mantén tus dispositivos actualizados. No hagas clic en enlaces sospechosos. Usa antivirus. Configura tu firewall. Haz copias de seguridad periódicas. Usa VPN en redes públicas.\",\"illustration\":\"BuenasPracticas.png\"},{\"id\":\"a3-p5\",\"title\":\"Resumen\",\"content\":\"✔ La seguridad de red requiere cifrado, autenticación fuerte y buenas prácticas.\\n\\n✔ Conocer las amenazas y aplicar medidas básicas protege tu información.\"},{\"id\":\"a3-p6\",\"title\":\"Prueba práctica\",\"content\":\"Demuestra lo que aprendiste sobre seguridad en red.\",\"quiz\":{\"type\":\"ordering\",\"question\":\"Ordena estas buenas prácticas de seguridad de menor a mayor complejidad:\",\"correctOrder\":[\"No hagas clic en enlaces sospechosos\",\"Usa contraseñas fuertes\",\"Configura tu firewall\",\"Usa VPN en redes públicas\"],\"explanation\":\"Desde hábitos simples como no clickear enlaces sospechosos, hasta configuraciones más avanzadas como firewalls y VPNs.\"}}]",
+      "nivel": "advanced",
+      "xp_recompensa": 20,
+      "estado": 1
+    }
+  ],
+  "Evaluacion": [
+    {
+      "id_evaluacion": 1,
+      "id_leccion": 1,
+      "titulo": "Fundamentos de Redes",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    },
+    {
+      "id_evaluacion": 2,
+      "id_leccion": 10,
+      "titulo": "Tipos de Redes",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    },
+    {
+      "id_evaluacion": 3,
+      "id_leccion": 11,
+      "titulo": "Dispositivos de Red",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    },
+    {
+      "id_evaluacion": 4,
+      "id_leccion": 12,
+      "titulo": "Direccionamiento IP",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    },
+    {
+      "id_evaluacion": 5,
+      "id_leccion": 13,
+      "titulo": "Subredes y Máscara",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    },
+    {
+      "id_evaluacion": 6,
+      "id_leccion": 14,
+      "titulo": "Topologías de Red",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    },
+    {
+      "id_evaluacion": 7,
+      "id_leccion": 15,
+      "titulo": "Protocolos TCP/IP",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    },
+    {
+      "id_evaluacion": 8,
+      "id_leccion": 16,
+      "titulo": "Puertos y Servicios",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    },
+    {
+      "id_evaluacion": 9,
+      "id_leccion": 17,
+      "titulo": "Seguridad en Red",
+      "descripcion": "Evaluación del módulo",
+      "puntaje_minimo": 75.0
+    }
+  ],
+  "Pregunta": [
+    {
+      "id_pregunta": 1,
+      "id_evaluacion": 1,
+      "enunciado": "¿Qué es una red informática?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 2,
+      "id_evaluacion": 1,
+      "enunciado": "¿Cuál de estos dispositivos puede formar parte de una red?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 3,
+      "id_evaluacion": 1,
+      "enunciado": "¿Qué tipo de red es el Wi-Fi de tu casa?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 4,
+      "id_evaluacion": 1,
+      "enunciado": "¿Qué tecnología utiliza pulsos de luz para transmitir datos?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 5,
+      "id_evaluacion": 1,
+      "enunciado": "¿Qué es un servidor?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 6,
+      "id_evaluacion": 1,
+      "enunciado": "¿Qué permite una red informática?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 7,
+      "id_evaluacion": 1,
+      "enunciado": "Ordena el recorrido correcto de un dato en una red:",
+      "tipo_pregunta": "ordering",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 8,
+      "id_evaluacion": 1,
+      "enunciado": "Internet es la red más grande del mundo.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    },
+    {
+      "id_pregunta": 9,
+      "id_evaluacion": 2,
+      "enunciado": "¿Qué tipo de red conecta dispositivos dentro de un edificio?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 10,
+      "id_evaluacion": 2,
+      "enunciado": "¿Cuál es el alcance máximo de una PAN?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 11,
+      "id_evaluacion": 2,
+      "enunciado": "¿Qué tipo de red cubre una ciudad completa?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 12,
+      "id_evaluacion": 2,
+      "enunciado": "¿Qué es una Intranet?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 13,
+      "id_evaluacion": 2,
+      "enunciado": "¿Qué tecnología usa comúnmente la PAN?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 14,
+      "id_evaluacion": 2,
+      "enunciado": "Una Extranet permite acceso limitado a usuarios externos.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 15,
+      "id_evaluacion": 2,
+      "enunciado": "¿Qué conecta una MAN?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 16,
+      "id_evaluacion": 2,
+      "enunciado": "Ordena las redes de menor a mayor alcance:",
+      "tipo_pregunta": "ordering",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    },
+    {
+      "id_pregunta": 17,
+      "id_evaluacion": 3,
+      "enunciado": "¿Qué hace un router?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 18,
+      "id_evaluacion": 3,
+      "enunciado": "El switch conecta dispositivos dentro de la misma red local.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 19,
+      "id_evaluacion": 3,
+      "enunciado": "¿Qué hace un firewall?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 20,
+      "id_evaluacion": 3,
+      "enunciado": "¿Qué es un punto de acceso WiFi?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 21,
+      "id_evaluacion": 3,
+      "enunciado": "¿Qué función tienen los servidores en una red?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 22,
+      "id_evaluacion": 3,
+      "enunciado": "El módem convierte las señales digitales en analógicas y viceversa.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 23,
+      "id_evaluacion": 3,
+      "enunciado": "¿Cuál es la diferencia principal entre un router y un switch?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 24,
+      "id_evaluacion": 3,
+      "enunciado": "¿Qué dispositivos forman la infraestructura básica de una red?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    },
+    {
+      "id_pregunta": 25,
+      "id_evaluacion": 4,
+      "enunciado": "¿Cuántos bits utiliza una dirección IPv4?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 26,
+      "id_evaluacion": 4,
+      "enunciado": "¿Cuántos bits utiliza IPv6?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 27,
+      "id_evaluacion": 4,
+      "enunciado": "¿Qué es una IP pública?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 28,
+      "id_evaluacion": 4,
+      "enunciado": "La MAC Address cambia cuando te conectas a otra red.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 29,
+      "id_evaluacion": 4,
+      "enunciado": "¿Cuántas direcciones permite IPv4 aproximadamente?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 30,
+      "id_evaluacion": 4,
+      "enunciado": "¿Qué es una IP privada?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 31,
+      "id_evaluacion": 4,
+      "enunciado": "IPv6 fue creada para resolver el agotamiento de direcciones IPv4.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 32,
+      "id_evaluacion": 4,
+      "enunciado": "¿Dónde está grabada la dirección MAC?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    },
+    {
+      "id_pregunta": 33,
+      "id_evaluacion": 5,
+      "enunciado": "¿Qué es una subred?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 34,
+      "id_evaluacion": 5,
+      "enunciado": "La máscara de subred 255.255.255.0 indica que los primeros ___ octetos son la red.",
+      "tipo_pregunta": "fill-blank",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 35,
+      "id_evaluacion": 5,
+      "enunciado": "¿Qué significa CIDR?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 36,
+      "id_evaluacion": 5,
+      "enunciado": "¿Qué representa /24 en notación CIDR?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 37,
+      "id_evaluacion": 5,
+      "enunciado": "Las subredes mejoran el rendimiento de una red grande.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 38,
+      "id_evaluacion": 5,
+      "enunciado": "¿Qué necesitas saber para calcular subredes?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 39,
+      "id_evaluacion": 5,
+      "enunciado": "¿Qué dirección necesita cada subred como mínimo?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 40,
+      "id_evaluacion": 5,
+      "enunciado": "La máscara de subred determina qué parte es la red y qué parte son los dispositivos.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    },
+    {
+      "id_pregunta": 41,
+      "id_evaluacion": 6,
+      "enunciado": "¿En qué topología todos los dispositivos se conectan a un punto central?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 42,
+      "id_evaluacion": 6,
+      "enunciado": "¿Qué es la topología de red?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 43,
+      "id_evaluacion": 6,
+      "enunciado": "¿Cuál es la topología más común en hogares y oficinas?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 44,
+      "id_evaluacion": 6,
+      "enunciado": "¿En la topología bus, cómo se conectan los dispositivos?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 45,
+      "id_evaluacion": 6,
+      "enunciado": "¿Cuál es la característica de la topología malla?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 46,
+      "id_evaluacion": 6,
+      "enunciado": "La topología anillo forma un círculo cerrado de dispositivos.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 47,
+      "id_evaluacion": 6,
+      "enunciado": "¿En qué tipo de red se usa la topología malla?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 48,
+      "id_evaluacion": 6,
+      "enunciado": "¿Qué tipo de topología puede ser física o lógica?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    },
+    {
+      "id_pregunta": 49,
+      "id_evaluacion": 7,
+      "enunciado": "¿Cuántas capas tiene el modelo TCP/IP?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 50,
+      "id_evaluacion": 7,
+      "enunciado": "TCP es más rápido que UDP pero no garantiza la entrega.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 51,
+      "id_evaluacion": 7,
+      "enunciado": "¿Qué hace DNS?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 52,
+      "id_evaluacion": 7,
+      "enunciado": "¿Qué protocolo se usa para transferir páginas web?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 53,
+      "id_evaluacion": 7,
+      "enunciado": "¿Qué protocolo es confiable y verifica que todos los paquetes lleguen?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 54,
+      "id_evaluacion": 7,
+      "enunciado": "¿Qué protocolo se usa en videojuegos online por su velocidad?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 55,
+      "id_evaluacion": 7,
+      "enunciado": "HTTPS añade cifrado a las conexiones web.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 56,
+      "id_evaluacion": 7,
+      "enunciado": "¿Qué es la capa de Aplicación en TCP/IP?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    },
+    {
+      "id_pregunta": 57,
+      "id_evaluacion": 8,
+      "enunciado": "¿Qué es un puerto en red?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 58,
+      "id_evaluacion": 8,
+      "enunciado": "El puerto ___ se utiliza para conexiones HTTPS (web cifrada).",
+      "tipo_pregunta": "fill-blank",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 59,
+      "id_evaluacion": 8,
+      "enunciado": "¿Qué puerto se usa para HTTP?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 60,
+      "id_evaluacion": 8,
+      "enunciado": "¿Qué servicio utiliza el puerto 22?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 61,
+      "id_evaluacion": 8,
+      "enunciado": "¿Qué es un servicio de red?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 62,
+      "id_evaluacion": 8,
+      "enunciado": "¿Qué hace un firewall con los puertos?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 63,
+      "id_evaluacion": 8,
+      "enunciado": "Solo se deben abrir los puertos que realmente se necesitan.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 64,
+      "id_evaluacion": 8,
+      "enunciado": "¿Qué protocolo asigna direcciones IP automáticamente?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    },
+    {
+      "id_pregunta": 65,
+      "id_evaluacion": 9,
+      "enunciado": "¿Qué es el cifrado de datos?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 1
+    },
+    {
+      "id_pregunta": 66,
+      "id_evaluacion": 9,
+      "enunciado": "¿Qué protocolo cifra el tráfico web?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 2
+    },
+    {
+      "id_pregunta": 67,
+      "id_evaluacion": 9,
+      "enunciado": "¿Qué tecnología cifra las conexiones WiFi?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 3
+    },
+    {
+      "id_pregunta": 68,
+      "id_evaluacion": 9,
+      "enunciado": "¿Qué es phishing?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 4
+    },
+    {
+      "id_pregunta": 69,
+      "id_evaluacion": 9,
+      "enunciado": "¿Qué es la autenticación de dos factores (2FA)?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 5
+    },
+    {
+      "id_pregunta": 70,
+      "id_evaluacion": 9,
+      "enunciado": "Una contraseña fuerte debe tener al menos 12 caracteres con mezcla de tipos.",
+      "tipo_pregunta": "true-false",
+      "puntaje": 10.0,
+      "orden_pregunta": 6
+    },
+    {
+      "id_pregunta": 71,
+      "id_evaluacion": 9,
+      "enunciado": "¿Qué es un ataque DDoS?",
+      "tipo_pregunta": "multiple-choice",
+      "puntaje": 10.0,
+      "orden_pregunta": 7
+    },
+    {
+      "id_pregunta": 72,
+      "id_evaluacion": 9,
+      "enunciado": "Ordena estas prácticas de seguridad de menor a mayor complejidad:",
+      "tipo_pregunta": "ordering",
+      "puntaje": 10.0,
+      "orden_pregunta": 8
+    }
+  ],
+  "Respuesta": [
+    {
+      "id_respuesta": 1,
+      "id_pregunta": 1,
+      "texto_respuesta": "Dispositivos conectados para compartir información",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 2,
+      "id_pregunta": 1,
+      "texto_respuesta": "Un tipo de cable",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 3,
+      "id_pregunta": 1,
+      "texto_respuesta": "Un programa de computadora",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 4,
+      "id_pregunta": 1,
+      "texto_respuesta": "Un dispositivo solitario",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 5,
+      "id_pregunta": 2,
+      "texto_respuesta": "Router",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 6,
+      "id_pregunta": 2,
+      "texto_respuesta": "Microondas",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 7,
+      "id_pregunta": 2,
+      "texto_respuesta": "Ventilador",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 8,
+      "id_pregunta": 2,
+      "texto_respuesta": "Licuadora",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 9,
+      "id_pregunta": 3,
+      "texto_respuesta": "LAN",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 10,
+      "id_pregunta": 3,
+      "texto_respuesta": "WAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 11,
+      "id_pregunta": 3,
+      "texto_respuesta": "PAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 12,
+      "id_pregunta": 3,
+      "texto_respuesta": "MAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 13,
+      "id_pregunta": 4,
+      "texto_respuesta": "Fibra óptica",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 14,
+      "id_pregunta": 4,
+      "texto_respuesta": "Wi-Fi",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 15,
+      "id_pregunta": 4,
+      "texto_respuesta": "Bluetooth",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 16,
+      "id_pregunta": 4,
+      "texto_respuesta": "Ethernet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 17,
+      "id_pregunta": 5,
+      "texto_respuesta": "Una computadora que ofrece servicios a otros dispositivos",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 18,
+      "id_pregunta": 5,
+      "texto_respuesta": "Un tipo de cable",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 19,
+      "id_pregunta": 5,
+      "texto_respuesta": "Un celular conectado a internet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 20,
+      "id_pregunta": 5,
+      "texto_respuesta": "Un programa de messenger",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 21,
+      "id_pregunta": 6,
+      "texto_respuesta": "Comunicarse y compartir recursos",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 22,
+      "id_pregunta": 6,
+      "texto_respuesta": "Solo enviar correos",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 23,
+      "id_pregunta": 6,
+      "texto_respuesta": "Imprimir documentos únicamente",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 24,
+      "id_pregunta": 6,
+      "texto_respuesta": "Nada más navegar en internet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 25,
+      "id_pregunta": 7,
+      "texto_respuesta": "Dispositivo",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 26,
+      "id_pregunta": 7,
+      "texto_respuesta": "Router",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 27,
+      "id_pregunta": 7,
+      "texto_respuesta": "Internet",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 28,
+      "id_pregunta": 7,
+      "texto_respuesta": "Servidor",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 29,
+      "id_pregunta": 8,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 30,
+      "id_pregunta": 8,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 31,
+      "id_pregunta": 9,
+      "texto_respuesta": "LAN",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 32,
+      "id_pregunta": 9,
+      "texto_respuesta": "WAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 33,
+      "id_pregunta": 9,
+      "texto_respuesta": "PAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 34,
+      "id_pregunta": 9,
+      "texto_respuesta": "MAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 35,
+      "id_pregunta": 10,
+      "texto_respuesta": "10 metros",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 36,
+      "id_pregunta": 10,
+      "texto_respuesta": "1 km",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 37,
+      "id_pregunta": 10,
+      "texto_respuesta": "50 km",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 38,
+      "id_pregunta": 10,
+      "texto_respuesta": "Sin límite",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 39,
+      "id_pregunta": 11,
+      "texto_respuesta": "MAN",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 40,
+      "id_pregunta": 11,
+      "texto_respuesta": "LAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 41,
+      "id_pregunta": 11,
+      "texto_respuesta": "PAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 42,
+      "id_pregunta": 11,
+      "texto_respuesta": "WAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 43,
+      "id_pregunta": 12,
+      "texto_respuesta": "Una red privada de una organización",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 44,
+      "id_pregunta": 12,
+      "texto_respuesta": "Internet público",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 45,
+      "id_pregunta": 12,
+      "texto_respuesta": "Una red social",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 46,
+      "id_pregunta": 12,
+      "texto_respuesta": "Un tipo de WAN",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 47,
+      "id_pregunta": 13,
+      "texto_respuesta": "Bluetooth",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 48,
+      "id_pregunta": 13,
+      "texto_respuesta": "Fibra óptica",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 49,
+      "id_pregunta": 13,
+      "texto_respuesta": "Cable Ethernet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 50,
+      "id_pregunta": 13,
+      "texto_respuesta": "Satélite",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 51,
+      "id_pregunta": 14,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 52,
+      "id_pregunta": 14,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 53,
+      "id_pregunta": 15,
+      "texto_respuesta": "Varias LAN dentro de una ciudad",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 54,
+      "id_pregunta": 15,
+      "texto_respuesta": "Dispositivos en un escritorio",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 55,
+      "id_pregunta": 15,
+      "texto_respuesta": "Países enteros",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 56,
+      "id_pregunta": 15,
+      "texto_respuesta": "Solo dispositivos móviles",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 57,
+      "id_pregunta": 16,
+      "texto_respuesta": "PAN",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 58,
+      "id_pregunta": 16,
+      "texto_respuesta": "LAN",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 59,
+      "id_pregunta": 16,
+      "texto_respuesta": "MAN",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 60,
+      "id_pregunta": 16,
+      "texto_respuesta": "WAN",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 61,
+      "id_pregunta": 17,
+      "texto_respuesta": "Conecta redes diferentes y dirige el tráfico",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 62,
+      "id_pregunta": 17,
+      "texto_respuesta": "Solo imprime documentos",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 63,
+      "id_pregunta": 17,
+      "texto_respuesta": "Almacena archivos",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 64,
+      "id_pregunta": 17,
+      "texto_respuesta": "Conecta solo audífonos",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 65,
+      "id_pregunta": 18,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 66,
+      "id_pregunta": 18,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 67,
+      "id_pregunta": 19,
+      "texto_respuesta": "Protege la red de accesos no autorizados",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 68,
+      "id_pregunta": 19,
+      "texto_respuesta": "Acelera la conexión a internet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 69,
+      "id_pregunta": 19,
+      "texto_respuesta": "Amplia la señal WiFi",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 70,
+      "id_pregunta": 19,
+      "texto_respuesta": "Imprime documentos en red",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 71,
+      "id_pregunta": 20,
+      "texto_respuesta": "Permite conexión inalámbrica a la red",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 72,
+      "id_pregunta": 20,
+      "texto_respuesta": "Un tipo de servidor",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 73,
+      "id_pregunta": 20,
+      "texto_respuesta": "Un cable de red",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 74,
+      "id_pregunta": 20,
+      "texto_respuesta": "Un programa de seguridad",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 75,
+      "id_pregunta": 21,
+      "texto_respuesta": "Almacenan y distribuyen datos",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 76,
+      "id_pregunta": 21,
+      "texto_respuesta": "Solo navegan por internet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 77,
+      "id_pregunta": 21,
+      "texto_respuesta": "Conectan impresoras",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 78,
+      "id_pregunta": 21,
+      "texto_respuesta": "Cargan dispositivos móviles",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 79,
+      "id_pregunta": 22,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 80,
+      "id_pregunta": 22,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 81,
+      "id_pregunta": 23,
+      "texto_respuesta": "El router conecta redes; el switch conecta dispositivos en la misma red",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 82,
+      "id_pregunta": 23,
+      "texto_respuesta": "Son exactamente lo mismo",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 83,
+      "id_pregunta": 23,
+      "texto_respuesta": "El switch es más caro",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 84,
+      "id_pregunta": 23,
+      "texto_respuesta": "El router solo sirve para WiFi",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 85,
+      "id_pregunta": 24,
+      "texto_respuesta": "Módem, router y switch",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 86,
+      "id_pregunta": 24,
+      "texto_respuesta": "Solo una impresora",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 87,
+      "id_pregunta": 24,
+      "texto_respuesta": "Un televisor y un decoder",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 88,
+      "id_pregunta": 24,
+      "texto_respuesta": "Un mouse y un teclado",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 89,
+      "id_pregunta": 25,
+      "texto_respuesta": "32 bits",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 90,
+      "id_pregunta": 25,
+      "texto_respuesta": "16 bits",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 91,
+      "id_pregunta": 25,
+      "texto_respuesta": "64 bits",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 92,
+      "id_pregunta": 25,
+      "texto_respuesta": "128 bits",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 93,
+      "id_pregunta": 26,
+      "texto_respuesta": "128 bits",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 94,
+      "id_pregunta": 26,
+      "texto_respuesta": "32 bits",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 95,
+      "id_pregunta": 26,
+      "texto_respuesta": "64 bits",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 96,
+      "id_pregunta": 26,
+      "texto_respuesta": "256 bits",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 97,
+      "id_pregunta": 27,
+      "texto_respuesta": "Una dirección visible en Internet asignada por el proveedor",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 98,
+      "id_pregunta": 27,
+      "texto_respuesta": "Una dirección que solo funciona en tu casa",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 99,
+      "id_pregunta": 27,
+      "texto_respuesta": "Una dirección de correo electrónico",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 100,
+      "id_pregunta": 27,
+      "texto_respuesta": "Un tipo de contraseña",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 101,
+      "id_pregunta": 28,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 102,
+      "id_pregunta": 28,
+      "texto_respuesta": "Falso",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 103,
+      "id_pregunta": 29,
+      "texto_respuesta": "4.3 mil millones",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 104,
+      "id_pregunta": 29,
+      "texto_respuesta": "4 mil millones de mil millones",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 105,
+      "id_pregunta": 29,
+      "texto_respuesta": "400 mil",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 106,
+      "id_pregunta": 29,
+      "texto_respuesta": "4 mil",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 107,
+      "id_pregunta": 30,
+      "texto_respuesta": "Una dirección que solo funciona dentro de la red local",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 108,
+      "id_pregunta": 30,
+      "texto_respuesta": "Una dirección visible en todo internet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 109,
+      "id_pregunta": 30,
+      "texto_respuesta": "Una dirección de servidor público",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 110,
+      "id_pregunta": 30,
+      "texto_respuesta": "Un tipo de dominio web",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 111,
+      "id_pregunta": 31,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 112,
+      "id_pregunta": 31,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 113,
+      "id_pregunta": 32,
+      "texto_respuesta": "En la tarjeta de red del dispositivo",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 114,
+      "id_pregunta": 32,
+      "texto_respuesta": "En el router",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 115,
+      "id_pregunta": 32,
+      "texto_respuesta": "En el servidor DNS",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 116,
+      "id_pregunta": 32,
+      "texto_respuesta": "En el cable Ethernet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 117,
+      "id_pregunta": 33,
+      "texto_respuesta": "Una división de una red más grande",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 118,
+      "id_pregunta": 33,
+      "texto_respuesta": "Un tipo de internet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 119,
+      "id_pregunta": 33,
+      "texto_respuesta": "Un servidor pequeño",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 120,
+      "id_pregunta": 33,
+      "texto_respuesta": "Un programa de red",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 121,
+      "id_pregunta": 34,
+      "texto_respuesta": "tres",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 122,
+      "id_pregunta": 34,
+      "texto_respuesta": "3",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 123,
+      "id_pregunta": 35,
+      "texto_respuesta": "Classless Inter-Domain Routing",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 124,
+      "id_pregunta": 35,
+      "texto_respuesta": "Computer Internet Data Route",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 125,
+      "id_pregunta": 35,
+      "texto_respuesta": "Central Internet Data Repository",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 126,
+      "id_pregunta": 35,
+      "texto_respuesta": "Connected Internal Device Ring",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 127,
+      "id_pregunta": 36,
+      "texto_respuesta": "24 bits corresponden a la red",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 128,
+      "id_pregunta": 36,
+      "texto_respuesta": "24 dispositivos conectados",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 129,
+      "id_pregunta": 36,
+      "texto_respuesta": "24 subredes disponibles",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 130,
+      "id_pregunta": 36,
+      "texto_respuesta": "Velocidad de 24 Mbps",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 131,
+      "id_pregunta": 37,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 132,
+      "id_pregunta": 37,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 133,
+      "id_pregunta": 38,
+      "texto_respuesta": "¿Cuántos dispositivos conectados habra?",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 134,
+      "id_pregunta": 38,
+      "texto_respuesta": "El color del cable",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 135,
+      "id_pregunta": 38,
+      "texto_respuesta": "El nombre del proveedor",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 136,
+      "id_pregunta": 38,
+      "texto_respuesta": "La marca del router",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 137,
+      "id_pregunta": 39,
+      "texto_respuesta": "Una dirección de red y una de broadcast",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 138,
+      "id_pregunta": 39,
+      "texto_respuesta": "Solo una IP privada",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 139,
+      "id_pregunta": 39,
+      "texto_respuesta": "Una dirección MAC",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 140,
+      "id_pregunta": 39,
+      "texto_respuesta": "Un nombre de dominio",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 141,
+      "id_pregunta": 40,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 142,
+      "id_pregunta": 40,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 143,
+      "id_pregunta": 41,
+      "texto_respuesta": "Estrella",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 144,
+      "id_pregunta": 41,
+      "texto_respuesta": "Bus",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 145,
+      "id_pregunta": 41,
+      "texto_respuesta": "Anillo",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 146,
+      "id_pregunta": 41,
+      "texto_respuesta": "Malla",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 147,
+      "id_pregunta": 42,
+      "texto_respuesta": "La forma en que los dispositivos están organizados y conectados",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 148,
+      "id_pregunta": 42,
+      "texto_respuesta": "El tipo de cable utilizado",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 149,
+      "id_pregunta": 42,
+      "texto_respuesta": "La velocidad de la conexión",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 150,
+      "id_pregunta": 42,
+      "texto_respuesta": "El proveedor de internet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 151,
+      "id_pregunta": 43,
+      "texto_respuesta": "Estrella",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 152,
+      "id_pregunta": 43,
+      "texto_respuesta": "Bus",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 153,
+      "id_pregunta": 43,
+      "texto_respuesta": "Anillo",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 154,
+      "id_pregunta": 43,
+      "texto_respuesta": "Malla completa",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 155,
+      "id_pregunta": 44,
+      "texto_respuesta": "Comparten un cable principal",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 156,
+      "id_pregunta": 44,
+      "texto_respuesta": "Cada uno tiene su cable al servidor",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 157,
+      "id_pregunta": 44,
+      "texto_respuesta": "Forman un círculo cerrado",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 158,
+      "id_pregunta": 44,
+      "texto_respuesta": "Se conectan por bluetooth",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 159,
+      "id_pregunta": 45,
+      "texto_respuesta": "Cada dispositivo se conecta con varios otros",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 160,
+      "id_pregunta": 45,
+      "texto_respuesta": "Todos comparten un solo cable",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 161,
+      "id_pregunta": 45,
+      "texto_respuesta": "Solo funciona con WiFi",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 162,
+      "id_pregunta": 45,
+      "texto_respuesta": "Es la más economica",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 163,
+      "id_pregunta": 46,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 164,
+      "id_pregunta": 46,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 165,
+      "id_pregunta": 47,
+      "texto_respuesta": "Redes críticas como telecomunicaciones",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 166,
+      "id_pregunta": 47,
+      "texto_respuesta": "Solo en hogares",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 167,
+      "id_pregunta": 47,
+      "texto_respuesta": "Solo en escuelas",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 168,
+      "id_pregunta": 47,
+      "texto_respuesta": "En redes personales",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 169,
+      "id_pregunta": 48,
+      "texto_respuesta": "Cualquier topología de red",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 170,
+      "id_pregunta": 48,
+      "texto_respuesta": "Solo la estrella",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 171,
+      "id_pregunta": 48,
+      "texto_respuesta": "Solo la malla",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 172,
+      "id_pregunta": 48,
+      "texto_respuesta": "Solo el bus",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 173,
+      "id_pregunta": 49,
+      "texto_respuesta": "4 capas",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 174,
+      "id_pregunta": 49,
+      "texto_respuesta": "7 capas",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 175,
+      "id_pregunta": 49,
+      "texto_respuesta": "5 capas",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 176,
+      "id_pregunta": 49,
+      "texto_respuesta": "3 capas",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 177,
+      "id_pregunta": 50,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 178,
+      "id_pregunta": 50,
+      "texto_respuesta": "Falso",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 179,
+      "id_pregunta": 51,
+      "texto_respuesta": "Traduce nombres de dominio a direcciones IP",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 180,
+      "id_pregunta": 51,
+      "texto_respuesta": "Envía correos electrónicos",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 181,
+      "id_pregunta": 51,
+      "texto_respuesta": "Conecta cables de red",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 182,
+      "id_pregunta": 51,
+      "texto_respuesta": "Almacena archivos en la nube",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 183,
+      "id_pregunta": 52,
+      "texto_respuesta": "HTTP/HTTPS",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 184,
+      "id_pregunta": 52,
+      "texto_respuesta": "SMTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 185,
+      "id_pregunta": 52,
+      "texto_respuesta": "FTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 186,
+      "id_pregunta": 52,
+      "texto_respuesta": "DHCP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 187,
+      "id_pregunta": 53,
+      "texto_respuesta": "TCP",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 188,
+      "id_pregunta": 53,
+      "texto_respuesta": "UDP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 189,
+      "id_pregunta": 53,
+      "texto_respuesta": "IP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 190,
+      "id_pregunta": 53,
+      "texto_respuesta": "HTTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 191,
+      "id_pregunta": 54,
+      "texto_respuesta": "UDP",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 192,
+      "id_pregunta": 54,
+      "texto_respuesta": "TCP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 193,
+      "id_pregunta": 54,
+      "texto_respuesta": "HTTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 194,
+      "id_pregunta": 54,
+      "texto_respuesta": "SMTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 195,
+      "id_pregunta": 55,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 196,
+      "id_pregunta": 55,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 197,
+      "id_pregunta": 56,
+      "texto_respuesta": "¿Dónde funcionan HTTP, DNS y FTP?",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 198,
+      "id_pregunta": 56,
+      "texto_respuesta": "¿Dónde se conectan los cables?",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 199,
+      "id_pregunta": 56,
+      "texto_respuesta": "¿Dónde se direccionan los paquetes?",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 200,
+      "id_pregunta": 56,
+      "texto_respuesta": "¿Dónde se verifican los datos?",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 201,
+      "id_pregunta": 57,
+      "texto_respuesta": "Un número que identifica un servicio o aplicación",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 202,
+      "id_pregunta": 57,
+      "texto_respuesta": "Un tipo de cable",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 203,
+      "id_pregunta": 57,
+      "texto_respuesta": "Un lugar físico donde se conecta un dispositivo",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 204,
+      "id_pregunta": 57,
+      "texto_respuesta": "Una dirección de internet",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 205,
+      "id_pregunta": 58,
+      "texto_respuesta": "443",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 206,
+      "id_pregunta": 59,
+      "texto_respuesta": "Puerto 80",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 207,
+      "id_pregunta": 59,
+      "texto_respuesta": "Puerto 443",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 208,
+      "id_pregunta": 59,
+      "texto_respuesta": "Puerto 22",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 209,
+      "id_pregunta": 59,
+      "texto_respuesta": "Puerto 25",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 210,
+      "id_pregunta": 60,
+      "texto_respuesta": "SSH (acceso remoto)",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 211,
+      "id_pregunta": 60,
+      "texto_respuesta": "HTTP (web)",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 212,
+      "id_pregunta": 60,
+      "texto_respuesta": "DNS (nombres)",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 213,
+      "id_pregunta": 60,
+      "texto_respuesta": "SMTP (correo)",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 214,
+      "id_pregunta": 61,
+      "texto_respuesta": "Una función que ofrece un servidor a los clientes",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 215,
+      "id_pregunta": 61,
+      "texto_respuesta": "Un tipo de cable",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 216,
+      "id_pregunta": 61,
+      "texto_respuesta": "Una dirección IP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 217,
+      "id_pregunta": 61,
+      "texto_respuesta": "Un dispositivo de red",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 218,
+      "id_pregunta": 62,
+      "texto_respuesta": "controla qué puertos están abiertos o cerrados",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 219,
+      "id_pregunta": 62,
+      "texto_respuesta": "Los abre todos automáticamente",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 220,
+      "id_pregunta": 62,
+      "texto_respuesta": "Los cierra permanentemente",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 221,
+      "id_pregunta": 62,
+      "texto_respuesta": "Los convierte en direcciones IP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 222,
+      "id_pregunta": 63,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 223,
+      "id_pregunta": 63,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 224,
+      "id_pregunta": 64,
+      "texto_respuesta": "DHCP",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 225,
+      "id_pregunta": 64,
+      "texto_respuesta": "DNS",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 226,
+      "id_pregunta": 64,
+      "texto_respuesta": "HTTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 227,
+      "id_pregunta": 64,
+      "texto_respuesta": "SMTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 228,
+      "id_pregunta": 65,
+      "texto_respuesta": "Convertir datos en código ilegible sin la clave",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 229,
+      "id_pregunta": 65,
+      "texto_respuesta": "Eliminar datos innecesarios",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 230,
+      "id_pregunta": 65,
+      "texto_respuesta": "Compartir datos por bluetooth",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 231,
+      "id_pregunta": 65,
+      "texto_respuesta": "Almacenar datos en la nube",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 232,
+      "id_pregunta": 66,
+      "texto_respuesta": "TLS/SSL",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 233,
+      "id_pregunta": 66,
+      "texto_respuesta": "HTTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 234,
+      "id_pregunta": 66,
+      "texto_respuesta": "FTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 235,
+      "id_pregunta": 66,
+      "texto_respuesta": "SMTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 236,
+      "id_pregunta": 67,
+      "texto_respuesta": "WPA2/WPA3",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 237,
+      "id_pregunta": 67,
+      "texto_respuesta": "HTTP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 238,
+      "id_pregunta": 67,
+      "texto_respuesta": "DNS",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 239,
+      "id_pregunta": 67,
+      "texto_respuesta": "TCP",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 240,
+      "id_pregunta": 68,
+      "texto_respuesta": "Un ataque para robar datos haciendose pasar por otro",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 241,
+      "id_pregunta": 68,
+      "texto_respuesta": "Un tipo de cifrado",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 242,
+      "id_pregunta": 68,
+      "texto_respuesta": "Un protocolo de red",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 243,
+      "id_pregunta": 68,
+      "texto_respuesta": "Un tipo de cable",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 244,
+      "id_pregunta": 69,
+      "texto_respuesta": "Una capa extra de seguridad además de la contraseña",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 245,
+      "id_pregunta": 69,
+      "texto_respuesta": "Usar dos contraseñas iguales",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 246,
+      "id_pregunta": 69,
+      "texto_respuesta": "Conectarse a dos redes a la vez",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 247,
+      "id_pregunta": 69,
+      "texto_respuesta": "Usar dos navegadores diferentes",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 248,
+      "id_pregunta": 70,
+      "texto_respuesta": "Verdadero",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 249,
+      "id_pregunta": 70,
+      "texto_respuesta": "Falso",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 250,
+      "id_pregunta": 71,
+      "texto_respuesta": "Saturar un servidor con tráfico para dejarlo fuera de servicio",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 251,
+      "id_pregunta": 71,
+      "texto_respuesta": "Un tipo de cifrado",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 252,
+      "id_pregunta": 71,
+      "texto_respuesta": "Una forma de autenticación",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 253,
+      "id_pregunta": 71,
+      "texto_respuesta": "Un protocolo de red",
+      "es_correcta": 0
+    },
+    {
+      "id_respuesta": 254,
+      "id_pregunta": 72,
+      "texto_respuesta": "No hagas clic en enlaces sospechosos",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 255,
+      "id_pregunta": 72,
+      "texto_respuesta": "Usa contraseñas fuertes",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 256,
+      "id_pregunta": 72,
+      "texto_respuesta": "Configura tu firewall",
+      "es_correcta": 1
+    },
+    {
+      "id_respuesta": 257,
+      "id_pregunta": 72,
+      "texto_respuesta": "Usa VPN en redes públicas",
+      "es_correcta": 1
+    }
+  ],
+  "Usuario": [
+    {
+      "id_usuario": 1,
+      "nombre": "Usuario",
+      "apellido": "Default",
+      "correo": "default@bitprogress.app",
+      "password_hash": "",
+      "xp_total": 0,
+      "fecha_registro": "2026-07-15T20:41:05.096Z",
+      "estado": 1,
+      "avatar": "boy"
+    }
+  ]
+}
